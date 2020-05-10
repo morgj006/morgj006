@@ -180,4 +180,7 @@ hr {
 	.logo .desktop {
 		display: none;
 	}
+	.header {
+		height: auto;
+	}
 }
