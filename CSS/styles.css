@@ -18,6 +18,10 @@
 	float:left;
 }
 
+.logo .mobile {
+	display: none;
+}
+
 /*------ Navigation bar ------*/
 
 
@@ -168,17 +172,12 @@ hr {
 	font-weight: bold;
 }
 
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
 
-@media only screen and (max-device-width: 480px) {
-		.logo {
-			width:70%;
-		}
-		.header {
-			background-image: url(Images/small_logo.png);
-
-		}
+@media (max-width: 600px) {
+	.logo .mobile {
+		display: block;
 	}
+	.logo .desktop {
+		display: none;
+	}
+}
