@@ -55,6 +55,8 @@
 .topnav_mobile a {
 	display:block;
 	text-align: center;
+	color:#FFFFFF;
+	text-transform: capitalize;
 }
 
 
