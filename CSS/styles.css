@@ -172,6 +172,8 @@ hr {
 	font-weight: bold;
 }
 
+/*------ Styling for mobile devices ------*/
+
 
 @media (max-width: 600px) {
 	.logo .mobile {
@@ -181,6 +183,6 @@ hr {
 		display: none;
 	}
 	.header {
-		height: auto;
+		height: 80px;
 	}
 }
