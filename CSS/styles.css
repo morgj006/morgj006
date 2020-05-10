@@ -45,6 +45,12 @@
 	letter-spacing:2px;
 }
 
+.topnav_mobile {
+	height:100%;
+	display: block;
+
+}
+
 .topnav a:hover {
 	background-color: #000000;
 	color: #FFFFFF;
@@ -184,6 +190,9 @@ hr {
 	}
 	.logo .desktop {
 		display: none;
+	}
+	.topnav {
+		display: block;
 	}
 	.topnav {
 		display:none;
