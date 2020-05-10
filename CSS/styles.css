@@ -184,5 +184,9 @@ hr {
 	}
 	.header {
 		height: 80px;
+		width:100%;
+	}
+	.card {
+		justify-content: space-around;
 	}
 }
