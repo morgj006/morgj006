@@ -48,6 +48,9 @@
 .topnav_mobile {
 	height:100%;
 	display: block;
+	margin-left: 5%;
+	margin-right: 5%;
+	position:absolute;
 
 }
 
