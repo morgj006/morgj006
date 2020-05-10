@@ -23,7 +23,9 @@
 }
 
 /*------ Navigation bar ------*/
-
+.topnav_mobile {
+	display: none;
+}
 
 .topnav {
 	overflow: hidden;
@@ -209,7 +211,7 @@ hr {
 	.logo .desktop {
 		display: none;
 	}
-	.topnav {
+	.topnav_mobile {
 		display: block;
 	}
 	.topnav {
