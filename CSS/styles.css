@@ -53,16 +53,12 @@
 	margin-right: 5%;
 }
 
-
-
 .topnav a:hover {
 	background-color: #000000;
 	color: #FFFFFF;
 }
 
-.topnav_mobile {
-	display: none;
-}
+
 /*------ Main content of website ------*/
 
 
