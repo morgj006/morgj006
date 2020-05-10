@@ -177,4 +177,8 @@ hr {
 		.logo {
 			width:70%;
 		}
+		.header {
+			background-image: url(Images/small_logo.png);
+
+		}
 	}
