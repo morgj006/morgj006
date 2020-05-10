@@ -1,9 +1,5 @@
 /*------ Header/logo ------*/
-@media only screen and (max-device-width: 480px) {
-		.logo {
-			width:70%;
-		}
-	}
+
 .header {
 	padding: 10px;
 	text-align: center;
@@ -171,3 +167,14 @@ hr {
 .footertitle {
 	font-weight: bold;
 }
+
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+@media only screen and (max-device-width: 480px) {
+		.logo {
+			width:70%;
+		}
+	}
