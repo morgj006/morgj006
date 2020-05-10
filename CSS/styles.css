@@ -47,12 +47,14 @@
 
 .topnav_mobile {
 	height:100%;
+	background-color: #408dc8;
 	margin-left: 5%;
 	margin-right: 5%;
 }
 
 .topnav_mobile a {
 	display:block;
+	text-align: center;
 }
 
 
