@@ -49,9 +49,12 @@
 }
 .topnav_mobile {
 	height:100%;
-	display: block;
 	margin-left: 5%;
 	margin-right: 5%;
+}
+
+.topnav_mobile a {
+	display: block;
 
 }
 
